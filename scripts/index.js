@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'April 22, 2025',
+  birthdate: 'April 23, 2025',
   name: 'Amelia Hisan Adena'
 };
 
